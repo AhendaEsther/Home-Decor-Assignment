@@ -1,0 +1,101 @@
+
+body{
+    padding: 500px ;
+    border: solid 1px wheat;
+}
+
+
+.container{
+    display: flex;
+    gap: 20%;
+}
+
+.buttons{
+    display: flex;
+    gap: 30%;
+}
+
+.ratings{
+    display: flex;
+    gap: 30%;
+}
+
+#image{
+    width: 400px;
+    height: 400px;
+}
+.center{
+    display: flex;
+    gap: 5%;
+}
+.restyle{
+    text-align: center;
+}
+.home_decor{
+    display: flex;
+    gap: 10%;
+}
+#Decor{
+    height: 400px;
+    width: 400px;
+}
+.stylish_pieces{
+    display: flex;
+    gap: 10%;
+}
+.benefits{
+    display: flex;
+    gap: 30px;
+}
+.offers{
+text-align: center;
+}
+.reviews{
+    display: flex;
+    gap: 10%;
+}
+#customer{
+    padding: 10px;
+
+    
+    
+}
+
+#stylish{
+    width: 400px;
+    height: 400px;
+}
+
+
+#shop{
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+    border-bottom-left-radius: 40%;
+}
+
+
+#shop2{
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+    border-bottom-left-radius: 40%;
+ 
+}
+#services{
+    width: 90px;
+    height: 90px;
+}
+.final{
+    display: flex;
+    gap: 50%;
+}
+
+
+
+
+
